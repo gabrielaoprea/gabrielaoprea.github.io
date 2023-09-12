@@ -11,7 +11,7 @@ title                    : "Diana-Gabriela Oprea"
 title_separator          : "-"
 name                     : &name "Diana-Gabriela Oprea"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gabrielaoprea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gabrielaoprea/gabrielaoprea.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gabriela"
+  name             : 
   avatar           : "profile.jpeg"
   bio              : "I am a PhD student in theoretical Physics and I am interested in topology in (strongly) correlated cystalline sistems. I am also passionate about education and social justice in academia (and not only)."
   location         : "Germany"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "gabrielaoprea"
   google_plus      :
   keybase          :
   instagram        :
