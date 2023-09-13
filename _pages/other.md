@@ -1,7 +1,7 @@
 ---
 layout: archive
+title: "Publications"
 permalink: /other/
-title: "Other interests"
 author_profile: true
 ---
 {% include base_path %}
